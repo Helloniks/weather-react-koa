@@ -1,0 +1,53 @@
+body {
+  margin: 0px !important;
+}
+
+.submitBtn {
+  margin-top: 4% !important;
+  margin-left: 2% !important;
+}
+
+.sunny {
+  background: url("./img/weather_sprites.png") no-repeat -10px -10px;
+  width: 120px;
+  height: 120px;
+}
+
+.rain {
+  background: url("./img/weather_sprites.png") no-repeat -710px -150px;
+  width: 120px;
+  height: 120px;
+}
+
+.clouds {
+  background: url("./img/weather_sprites.png") no-repeat -150px -150px;
+  width: 120px;
+  height: 120px;
+}
+
+.clearSky {
+  background: url("./img/weather_sprites.png") no-repeat -150px -10px;
+  width: 120px;
+  height: 120px;
+}
+
+.thunderstorm {
+  background: url("./img/weather_sprites.png") no-repeat -150px -710px;
+  width: 120px;
+  height: 120px;
+}
+
+.mist {
+  background: url("./img/weather_sprites.png") no-repeat -430px -10px;
+  width: 120px;
+  height: 120px;
+}
+
+.main-container {
+  margin-top: 2%;
+  margin-left: 2%;
+  width: 95%
+}
+.content-center{
+  text-align: center;
+}
